@@ -3,7 +3,7 @@
 
 int CALLBACK WinMain(_In_ HINSTANCE hInstance, _In_opt_ HINSTANCE hPrevInstance, _In_ LPSTR lpCmdLine, _In_ int nCmdShow) {
 	DXSample sample = {
-		.title = "HelloTriangle",
+		.title = "DynamicLOD",
 		.width = 1280,
 		.height = 720,
 	};
